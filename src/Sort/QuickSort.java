@@ -1,6 +1,5 @@
 package Sort;
 
-import java.util.Arrays;
 
 /**
  * <Description> <br>
@@ -38,12 +37,16 @@ public class QuickSort {
         int privot = nums[right];
         int i = left;
         int j = right - 1;
-        while (i<=j){
+        while (i <= j){
             while (i <= j && nums[i] <= privot) {
                 i++;
             }
-            while (i<=j&&nums[j]>privot)j--;
-            if (i<=j)swap(nums,i,j);
+            while (i<=j && nums[j]>privot) {
+                j--;
+            }
+            if (i <= j) {
+                swap(nums,i,j);
+            }
         }
         swap(nums,i,right);
         return i;
