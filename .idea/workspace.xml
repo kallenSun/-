@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="652d808c-9507-4a64-82b8-560ab15d8813" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Sort/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sort/QuickSort.java" afterDir="false" />
-    </list>
+    <list default="true" id="652d808c-9507-4a64-82b8-560ab15d8813" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -129,7 +127,7 @@
       <workItem from="1640725755877" duration="126394000" />
       <workItem from="1643958139245" duration="11000" />
       <workItem from="1644477471241" duration="25431000" />
-      <workItem from="1646116226936" duration="330000" />
+      <workItem from="1646116226936" duration="586000" />
     </task>
     <task id="LOCAL-00001" summary="# update some note">
       <created>1646116293842</created>
